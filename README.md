@@ -57,8 +57,8 @@
 </div>
 <div align="left">
   <h3> 📊 Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=jjcanell77&show_icons=true&theme=transparent" alt="jjcanell77" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjcanell77&theme=transparent" alt="jjcanell77" />
+  <img height="200" width="49%" src="https://github-readme-stats.vercel.app/api?username=jjcanell77&show_icons=true&theme=transparent" alt="jjcanell77" />
+  <img height="200" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jjcanell77&theme=transparent" alt="jjcanell77" />
 </div>
 
 <h3 align="left">Connect with me:</h3>

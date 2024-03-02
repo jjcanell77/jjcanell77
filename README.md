@@ -1,12 +1,14 @@
 <!--**jjcanell77/jjcanell77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)](https://rishavchanda.io)
+
+  [![MasterHead](https://media.licdn.com/dms/image/C4D16AQGb3h_qbhPdqQ/profile-displaybackgroundimage-shrink_200_800/0/1646369463935?e=2147483647&v=beta&t=rnxfq1eQe1vs3DBFysFE9LPhL_n-bnaEFGQjdlxbJwQ)](https://github.com/jjcanell77/)
+
 <h1 align="center">Hi 👋, I'm Jesse Canell</h1>
 <h3 align="center">A passionate developer from Houston, Texas</h3>
 <div>
   <img align="right" width="300" alt="Coding" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
   <div align="left">
     <p>👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech</p>
-    <p>👩🏻‍🎓 Studying Computer Science at the Colorado State University - Global Campusd</p>
+    <p>👩🏻‍🎓 Studying Computer Science at the Colorado State University - Global Campus</p>
     <p>🌱 I’m currently learning More about Java, and Foundational C# with Microsoft</p>
     <p>📫 How to reach me jjcanell@yahoo.com</p>
   </div>
